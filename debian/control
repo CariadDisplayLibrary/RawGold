@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: RawGold.h
-Description: RawGold font for DisplayCore
+Description: RawGold
