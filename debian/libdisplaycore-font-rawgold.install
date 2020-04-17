@@ -1,2 +1,4 @@
-RawGold.cpp libraries/DisplayCore/RawGold
-RawGold.h libraries/DisplayCore/RawGold
+library.json libraries/DisplayCore/RawGold
+library.properties libraries/DisplayCore/RawGold
+README.md libraries/DisplayCore/RawGold
+src libraries/DisplayCore/RawGold
